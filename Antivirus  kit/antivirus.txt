@@ -1,0 +1,102 @@
+Anti-malware 
+
+1. Microsoft Defender
+2. Bitdefender Antivirus
+3. Kaspersky Antivirus
+4. Norton AntiVirus
+5. McAfee Antivirus
+6. ESET NOD32 Antivirus
+7. Avast Antivirus
+8. AVG AntiVirus
+9. Avira Antivirus
+10. Trend Micro Antivirus+
+11. Sophos Home
+12. Malwarebytes
+13. F-Secure Anti-Virus
+14. Panda Dome
+15. Webroot Antivirus
+16. G DATA Antivirus
+17. TotalAV
+18. ZoneAlarm Antivirus
+19. Comodo Antivirus
+20. Adaware Antivirus
+21. ClamWin
+22. ClamAV
+23. Immunet
+24. Dr.Web
+25. Quick Heal Antivirus
+26. VIPRE Antivirus
+27. AhnLab V3
+28. FortiClient
+29. 360 Total Security
+30. Baidu Antivirus
+31. Tencent PC Manager
+32. Rising Antivirus
+33. Kingsoft Antivirus
+34. Zemana AntiMalware
+35. SUPERAntiSpyware
+36. Spybot Search & Destroy
+37. Emsisoft Anti-Malware
+38. HitmanPro
+39. GridinSoft Anti-Malware
+40. RogueKiller
+41. Zemana AntiLogger
+42. IObit Malware Fighter
+43. Wise Care 365
+44. Auslogics Anti-Malware
+45. ReasonLabs RAV Antivirus
+46. Reason Antivirus
+47. Thor Antivirus
+48. Heimdal Security
+49. WithSecure Elements
+50. CylancePROTECT
+51. SentinelOne
+52. CrowdStrike Falcon
+53. Sophos Intercept X
+54. Bitdefender GravityZone
+55. ESET PROTECT
+56. Kaspersky Endpoint Security
+57. Microsoft Defender for Endpoint
+58. McAfee Endpoint Security
+59. Symantec Endpoint Security
+60. Trend Micro Apex One
+61. Malwarebytes Endpoint Protection
+62. Avast Business Antivirus
+63. AVG Business Antivirus
+64. Panda Adaptive Defense
+65. F-Secure Protection Service for Business
+66. G DATA Business Solutions
+67. Dr.Web Security Space
+68. Quick Heal Total Security
+69. Comodo Internet Security
+70. ZoneAlarm Extreme Security
+71. Norton 360
+72. McAfee Total Protection
+73. Bitdefender Total Security
+74. Kaspersky Standard
+75. Kaspersky Plus
+76. Kaspersky Premium
+77. ESET Internet Security
+78. ESET Smart Security Premium
+79. Avast Premium Security
+80. AVG Internet Security
+81. Avira Prime
+82. Panda Dome Premium
+83. F-Secure Total
+84. G DATA Internet Security
+85. G DATA Total Security
+86. Trend Micro Maximum Security
+87. Webroot Internet Security
+88. TotalAV Antivirus Pro
+89. Malwarebytes Premium
+90. Adaware Antivirus Free
+91. PC Matic
+92. SecureAge Antivirus
+93. Arcabit Antivirus
+94. Acronis Cyber Protect
+95. WatchGuard Endpoint Security
+96. Trellix Endpoint Security
+97. Bitdefender Antivirus Free
+98. Sophos Scan & Clean
+99. Microsoft Safety Scanner
+100. Norton Power Eraser
