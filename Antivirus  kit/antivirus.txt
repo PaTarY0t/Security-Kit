@@ -99,4 +99,4 @@ Anti-malware
 97. Bitdefender Antivirus Free
 98. Sophos Scan & Clean
 99. Microsoft Safety Scanner
-100. Norton Power Eraser
+100. Norton Power Eraser >> Norton Power Eraser was officially discontinued and stopped working on April 30, 2026 <<
