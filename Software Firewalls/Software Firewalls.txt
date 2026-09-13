@@ -1,6 +1,6 @@
-Sure — here are **100 software firewalls**. I’m including host-based firewalls, network/router firewall software, open-source projects, and commercial software firewall products.
 
-### 100 Software Firewalls
+
+Software Firewalls
 
 1. Windows Defender Firewall
 2. Windows Firewall with Advanced Security
