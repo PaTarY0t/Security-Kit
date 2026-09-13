@@ -1,0 +1,104 @@
+Sure — here are **100 software firewalls**. I’m including host-based firewalls, network/router firewall software, open-source projects, and commercial software firewall products.
+
+### 100 Software Firewalls
+
+1. Windows Defender Firewall
+2. Windows Firewall with Advanced Security
+3. iptables
+4. nftables
+5. UFW (Uncomplicated Firewall)
+6. firewalld
+7. pf
+8. IPFW
+9. IPFilter
+10. OPNsense
+11. pfSense
+12. IPFire
+13. OpenWrt Firewall
+14. VyOS
+15. Shorewall
+16. Ferm
+17. APF (Advanced Policy Firewall)
+18. ConfigServer Security & Firewall (CSF)
+19. Smoothwall
+20. Endian Firewall
+21. ClearOS Firewall
+22. Untangle NG Firewall
+23. Sophos Firewall Software
+24. FortiGate-VM
+25. Palo Alto VM-Series
+26. Cisco Secure Firewall Threat Defense Virtual
+27. Check Point CloudGuard Network Security
+28. Juniper vSRX
+29. SonicWall NSv
+30. WatchGuard Firebox Cloud
+31. Barracuda CloudGen Firewall
+32. Kerio Control
+33. MikroTik RouterOS Firewall
+34. DD-WRT Firewall
+35. Tomato Firewall
+36. Vyatta
+37. ZeroShell
+38. IPcop
+39. Zentyal Firewall
+40. VyOS Firewall
+41. Linux netfilter
+42. Linux eBPF firewall
+43. nftablesables
+44. ConnMan Firewall
+45. FireHOL
+46. Firestarter
+47. NuFW
+48. Arno's IPTables Firewall
+49. Vuurmuur
+50. Gufw
+51. Shorewall6
+52. pfSense CE
+53. pfSense Plus
+54. OPNsense Business Edition
+55. OpenBSD PF
+56. FreeBSD PF
+57. FreeBSD IPFW
+58. macOS Application Firewall
+59. macOS PF Firewall
+60. Little Snitch
+61. LuLu
+62. Murus
+63. Radio Silence
+64. Vallum
+65. Hands Off!
+66. Objective-See Firewall
+67. Norton Smart Firewall
+68. Bitdefender Firewall
+69. ESET Firewall
+70. Kaspersky Firewall
+71. McAfee Firewall
+72. Avast Firewall
+73. AVG Enhanced Firewall
+74. Comodo Firewall
+75. ZoneAlarm Free Firewall
+76. GlassWire Firewall
+77. TinyWall
+78. SimpleWall
+79. Portmaster
+80. NetLimiter
+81. Privatefirewall
+82. Online Armor
+83. Outpost Firewall
+84. Sygate Personal Firewall
+85. Agnitum Outpost Firewall
+86. Jetico Personal Firewall
+87. NetDefender
+88. Core Force
+89. SoftPerfect Personal Firewall
+90. Windows Firewall Control
+91. Tiny Personal Firewall
+92. Fort Firewall
+93. Safing Portmaster
+94. OpenSnitch
+95. Douane
+96. Guarddog
+97. Firejail networking firewall
+98. Cilium Network Policy
+99. Calico Network Policy
+100. Palo Alto Prisma Cloud Firewall
