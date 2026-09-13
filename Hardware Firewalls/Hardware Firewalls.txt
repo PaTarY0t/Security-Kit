@@ -1,0 +1,101 @@
+
+1. Fortinet FortiGate 40F
+2. Fortinet FortiGate 50G
+3. Fortinet FortiGate 60F
+4. Fortinet FortiGate 70F
+5. Fortinet FortiGate 80F
+6. Fortinet FortiGate 90G
+7. Fortinet FortiGate 100F
+8. Fortinet FortiGate 120G
+9. Fortinet FortiGate 200F
+10. Fortinet FortiGate 400F
+11. Fortinet FortiGate 600F
+12. Fortinet FortiGate 900G
+13. Fortinet FortiGate 1000F
+14. Palo Alto PA-410
+15. Palo Alto PA-440
+16. Palo Alto PA-450
+17. Palo Alto PA-460
+18. Palo Alto PA-820
+19. Palo Alto PA-850
+20. Palo Alto PA-1410
+21. Palo Alto PA-1420
+22. Palo Alto PA-3410
+23. Palo Alto PA-3420
+24. Palo Alto PA-3430
+25. Palo Alto PA-3440
+26. Cisco Secure Firewall 1210
+27. Cisco Secure Firewall 1220
+28. Cisco Secure Firewall 1240
+29. Cisco Secure Firewall 1120
+30. Cisco Secure Firewall 1140
+31. Cisco Secure Firewall 1150
+32. Cisco Secure Firewall 2110
+33. Cisco Secure Firewall 2120
+34. Cisco Secure Firewall 2130
+35. Cisco Secure Firewall 2140
+36. Cisco Secure Firewall 3105
+37. Cisco Secure Firewall 3110
+38. Cisco Secure Firewall 3120
+39. Sophos XGS 87
+40. Sophos XGS 107
+41. Sophos XGS 116
+42. Sophos XGS 126
+43. Sophos XGS 136
+44. Sophos XGS 2100
+45. Sophos XGS 2300
+46. Sophos XGS 3100
+47. Sophos XGS 3300
+48. Sophos XGS 4300
+49. SonicWall TZ270
+50. SonicWall TZ370
+51. SonicWall TZ470
+52. SonicWall TZ570
+53. SonicWall TZ670
+54. SonicWall NSa 2700
+55. SonicWall NSa 3700
+56. SonicWall NSa 4700
+57. SonicWall NSa 5700
+58. Check Point Quantum Spark 1590
+59. Check Point Quantum Spark 1800
+60. Check Point Quantum Spark 1900
+61. Check Point Quantum 3600
+62. Check Point Quantum 3800
+63. Check Point Quantum 6200
+64. Check Point Quantum 6600
+65. Check Point Quantum 6700
+66. WatchGuard Firebox T25
+67. WatchGuard Firebox T45
+68. WatchGuard Firebox T85
+69. WatchGuard Firebox M290
+70. WatchGuard Firebox M390
+71. WatchGuard Firebox M590
+72. WatchGuard Firebox M690
+73. WatchGuard Firebox M4800
+74. Juniper SRX300
+75. Juniper SRX320
+76. Juniper SRX340
+77. Juniper SRX345
+78. Juniper SRX380
+79. Juniper SRX1500
+80. Juniper SRX1600
+81. Juniper SRX4100
+82. Barracuda CloudGen Firewall F18
+83. Barracuda CloudGen Firewall F80
+84. Barracuda CloudGen Firewall F93
+85. Barracuda CloudGen Firewall F180
+86. Barracuda CloudGen Firewall F380
+87. Netgate 2100
+88. Netgate 4200
+89. Netgate 6100
+90. Netgate 8200
+91. Firewalla Purple
+92. Firewalla Gold
+93. Firewalla Gold Plus
+94. Ubiquiti UniFi Dream Machine Pro
+95. Ubiquiti UniFi Dream Machine SE
+96. Ubiquiti UXG-Pro
+97. TP-Link Omada ER7206
+98. TP-Link Omada ER8411
+99. Protectli Vault VP2410
+100. Protectli Vault VP4630
